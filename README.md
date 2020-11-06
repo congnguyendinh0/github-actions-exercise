@@ -19,3 +19,4 @@ docker build . -t my-app
 ```bash
 docker run -p 8080:8080 my-app
 ```
+![Github](https://avatars1.githubusercontent.com/u/44036562?s=280&v=4)
